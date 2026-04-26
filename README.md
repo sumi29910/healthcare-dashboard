@@ -73,3 +73,39 @@ git add .
 git commit -m "Add README and complete healthcare dashboard"
 git push origin main
 ```
+
+![Main Dashboard](screenshots/1-main-dashboard.png)
+
+A comprehensive healthcare analytics dashboard with AI-powered features.
+
+## 📸 Screenshots
+
+### 1. Main Dashboard
+
+![Main Dashboard](screenshots/1-main-dashboard.png)
+
+### 2. PIN Code Search
+
+![PIN Code Search](screenshots/2-pin-search.png)
+
+### 3. AI Natural Language Search
+
+![AI Search](screenshots/3-ai-search.png)
+
+### 4. Healthcare Desert Detection
+
+![Healthcare Desert](screenshots/4-desert-detection.png)
+
+### 5. Life Expectancy Calculator
+
+![Life Expectancy](screenshots/5-life-expectancy.png)
+
+## Features ✨
+
+- **PIN Code Search** - Determine lifespan based on postal code
+- **AI Natural Language Search** - Semantic understanding using OpenAI
+- **Healthcare Desert Detection** - Identify underserved areas
+- **Life Expectancy Calculator** - Evidence-based algorithm
+- **State Health Statistics** - NHHS-5 data visualization
+- **Real-time Data Quality Scoring** - Living Intelligence Network
+- **Longevity Tips** - 12 evidence-based habits
